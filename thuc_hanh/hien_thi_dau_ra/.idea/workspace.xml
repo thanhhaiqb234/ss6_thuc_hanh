@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="efcf923e-3b82-49ff-963d-3d6acd78c753" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../ss2_code_org/bai_tap/[Bài tập] Tạo giao diện form đăng ký người dùng.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss2_code_org/thuc_hanh/Tạo form cơ bản.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss5_html_form_va_table/tao_form_don_gian/tao_form_don_gian.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss5_html_form_va_table/tao_form_lay_survey_khach_hang/tao_form_lay_survey_khach_hang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss5_html_form_va_table/thuc_hanh_tao_bang_co_ban/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss5_html_form_va_table/thuc_hanh_tao_bang_nang_cao/tao_bang_nang_cao.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss5_html_form_va_table/thuc_hanh_tao_bang_nang_cao/tao_bang_nang_cao.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuc_hanh_hie_thi_dau_ra_javascript.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MfYs4vKcRaf7CTIVH4AJ5bfEO1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/codegym/module1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efcf923e-3b82-49ff-963d-3d6acd78c753" name="Changes" comment="" />
+      <created>1678160306127</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678160306127</updated>
+      <workItem from="1678160307252" duration="5670000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
